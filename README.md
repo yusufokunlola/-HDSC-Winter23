@@ -1,1 +1,1 @@
-This folder contains quiz notebook for Hamoye Data Science 'Winter 23 quizes.
+This folder contains quiz notebooks for Hamoye Data Science 'Winter 23.
